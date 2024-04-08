@@ -1,2 +1,2 @@
 # DAT4500Sample
-Sample for DAT4500
+Sample repo for DAT4500
